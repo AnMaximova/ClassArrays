@@ -138,6 +138,5 @@ class ProgramStep
         three.InputSplit();
         three.OutArr();
         Console.WriteLine($"Среднее арифметическое элементов массива равно {three.Average}");
-        Console.ReadLine();
     }
 }
